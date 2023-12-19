@@ -1,4 +1,4 @@
-## Farivar Lab Github
+## Farivar Lab GitHub
 
 
 <!--
